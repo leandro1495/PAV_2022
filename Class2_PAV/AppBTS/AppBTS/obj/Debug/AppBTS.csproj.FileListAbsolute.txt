@@ -1,0 +1,12 @@
+D:\Class2_PAV\AppBTS\AppBTS\bin\Debug\AppBTS.exe.config
+D:\Class2_PAV\AppBTS\AppBTS\bin\Debug\AppBTS.exe
+D:\Class2_PAV\AppBTS\AppBTS\bin\Debug\AppBTS.pdb
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.AssemblyReference.cache
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.SuggestedBindingRedirects.cache
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.exe
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.pdb
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
+D:\Class2_PAV\AppBTS\AppBTS\obj\Debug\AppBTS.frmLogin.resources
